@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0decec39-bf8a-472b-9829-84217fbe7de3": {
+      "ProjectGuid": "0decec39-bf8a-472b-9829-84217fbe7de3",
+      "DisplayName": "WinForms_TimeConverter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

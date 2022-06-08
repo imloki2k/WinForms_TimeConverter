@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hHTBgfHo08AcOfKanG79+lDG8OIwwTmGZLKduHcxvyfrez5Vyg8P5D+kH0HwhukUweAmdo5TpIjjDFtCMRIdVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Loki\\source\\repos\\WinForms_TimeConverter\\WinForms_TimeConverter\\WinForms_TimeConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Loki\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
